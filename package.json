@@ -1,0 +1,30 @@
+{
+  "name": "keeno-config",
+  "version": "0.0.1",
+  "description": "Load server configuration values from encrypted file",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketerry.org/keeno-config.git"
+  },
+  "keywords": [
+    "keeno",
+    "config",
+    "environment",
+    "variables",
+    "encrypted",
+    "server"
+  ],
+  "author": "Mike Terry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miketerry.org/keeno-config/issues"
+  },
+  "homepage": "https://github.com/miketerry.org/keeno-config#readme"
+}
